@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className=" flex w-full items-center justify-center gap-[700px] mx-auto bg-slate-300 ">
       <Link to="/" className="flex relative ">
-        <img src={logo} alt="Logo" loading="lazy" className=" " />
+        <img src={logo} alt="Logo" loading="lazy" className="" />
         <img
           src={logo15}
           alt="logo15"
