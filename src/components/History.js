@@ -24,19 +24,19 @@ const History = () => {
         src={logo1}
         alt="logo1"
         loading="lazy"
-        className=" absolute top-[100px] left-[250px] md:left-[90px] lg:left-[400px]"
+        className=" absolute top-[100px] left-[250px] md:left-[90px] lg:left-[290px]"
       />
       <img
         src={logo3}
         alt="logo3"
         loading="lazy"
-        className=" absolute top-[160px] left-[370px] md:left-[210px] lg:left-[521px] lg:top-[170px]"
+        className=" absolute top-[160px] left-[370px] md:left-[210px] lg:left-[412px] lg:top-[170px]"
       />
       <img
         src={logo2}
         alt="logo2"
         loading="lazy"
-        className=" absolute top-[230px] left-[320px] md:left-[180px] lg:left-[470px]"
+        className=" absolute top-[230px] left-[320px] md:left-[180px] lg:left-[350px]"
       />
 
       <div className="relative">
